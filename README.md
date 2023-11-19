@@ -28,6 +28,7 @@
 
 ## Project Structure
 
+```bash
 project-root/
 |-- .vscode/
 |   |-- settings.json
@@ -59,6 +60,7 @@ project-root/
 |-- tsconfig.build.json
 |-- tsconfig.json
 |-- README.md
+```
 
 ## Installation
 
