@@ -26,6 +26,40 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Project Structure
+
+project-root/
+|-- .vscode/
+|   |-- settings.json
+|-- src/
+|   |-- app.controller.spec.ts
+|   |-- app.controller.ts
+|   |-- app.module.ts
+|   |-- app.service.ts
+|   |-- main.ts
+|   |-- count-smiley-faces/
+|   |   |-- count-smiley-faces.module.ts
+|   |   |-- count-smiley-faces.service.spec.ts
+|   |   |-- count-smiley-faces.service.ts
+|   |-- find-odd-int/
+|   |   |-- find-odd-int.module.ts
+|   |   |-- find-odd-int.service.spec.ts
+|   |   |-- find-odd-int.service.ts
+|   |-- permutations/
+|   |   |-- permutations.module.ts
+|   |   |-- permutations.service.spec.ts
+|   |   |-- permutations.service.ts
+|-- test/
+|-- .eslintrc.js
+|-- .gitignore
+|-- .prettierrc
+|-- nest-cli.json
+|-- package.json
+|-- pnpm-lock.yaml
+|-- tsconfig.build.json
+|-- tsconfig.json
+|-- README.md
+
 ## Installation
 
 ```bash
