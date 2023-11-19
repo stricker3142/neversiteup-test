@@ -1,0 +1,15 @@
+{
+  "singleQuote": true,
+  "semi": true,
+  "arrowParens": "always",
+  "printWidth": 120,
+  "overrides": [
+    {
+      "files": ["**/*.module.ts"],
+      "options": {
+        "semi": true,
+        "singleQuote": true
+      }
+    }
+  ]
+}
